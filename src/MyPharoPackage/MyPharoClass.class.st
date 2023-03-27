@@ -7,5 +7,5 @@ Class {
 { #category : #running }
 MyPharoClass >> sayHello [
 
-	^'Hello!'
+	^ 'Hellooo!'
 ]
