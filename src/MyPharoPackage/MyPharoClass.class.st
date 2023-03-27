@@ -3,3 +3,9 @@ Class {
 	#superclass : #Object,
 	#category : #MyPharoPackage
 }
+
+{ #category : #running }
+MyPharoClass >> sayHello [
+
+	^'Hello!'
+]
